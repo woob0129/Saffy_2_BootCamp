@@ -1,0 +1,6 @@
+echo "# Saffy_2_BootCamp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/woob0129/Saffy_2_BootCamp.git
+git push -u origin master
